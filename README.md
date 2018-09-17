@@ -10,3 +10,4 @@ Student, Sean Mahaffey, Github account = Seanhoy
 Student, Nico Froehberg, Github account = nfroehberg
 Student, Solomon Chen, Github account = solomon97
 Student, Kirstin Thompson, Github account = kthomp29
+Student, Nick Modar,Github account = nickmodar
