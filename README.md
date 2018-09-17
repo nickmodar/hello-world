@@ -6,8 +6,10 @@ generic admin Github account - meshlabhawaii
 
 Instructor, Brian Glazer, Github account = glazer
 
+Student, Sean Mahaffey, Github account = Seanhoy
 Student, Nico Froehberg, Github account = nfroehberg
 Student, Solomon Chen, Github account = solomon97
+
 
 
 
